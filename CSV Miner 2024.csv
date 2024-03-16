@@ -1,0 +1,109 @@
+NOTE  |**Created With CSV MAKER 2022 v3.02**
+NOTE  |Author: Miner2024 - ver. 1.0
+NOTE  |15/03/2024
+NOTE  |
+NOTE  |Troops: 50 Miner
+NOTE  |Spells: no
+NOTE  |CC: Siege Barrack
+NOTE  |Info Miner 4 side
+
+
+
+      |EXTR. GOLD |EXTR.ELIXIR|EXTR. DARK |DEPO. GOLD |DEPO.ELIXIR|DEPO. DARK |TOWNHALL   |FORCED SIDE|           |
+SIDE  |0          |0          |0          |0          |0          |0          |0          |           |           |
+      |EAGLE      |INFERNO    |XBOW       |WIZTOWER   |MORTAR     |AIRDEFENSE |SCATTER    |AIRSWEEPER |GEMBOX     |
+SIDEB |0          |0          |0          |0          |0          |0          |0          |0          |           |
+
+      |VECTOR_____|SIDE_______|DROP_POINTS|ADDTILES___|VERSUS_____|RANDOMX_PX_|RANDOMY_PX_|BUILDING___|___________|
+MAKE  |A          |BACK-RIGHT |10         |0          |INT-EXT    |0          |0          |           |           |
+MAKE  |B          |BACK-RIGHT |10         |1          |INT-EXT    |0          |0          |           |           |
+MAKE  |C          |BACK-RIGHT |10         |2          |INT-EXT    |0          |0          |           |           |
+MAKE  |D          |BACK-LEFT  |10         |0          |INT-EXT    |0          |0          |           |           |
+MAKE  |E          |BACK-LEFT  |10         |1          |INT-EXT    |0          |0          |           |           |
+MAKE  |F          |BACK-LEFT  |10         |2          |INT-EXT    |0          |0          |           |           |
+MAKE  |G          |LEFT-BACK  |10         |0          |INT-EXT    |0          |0          |           |           |
+MAKE  |H          |LEFT-BACK  |10         |1          |INT-EXT    |0          |0          |           |           |
+MAKE  |I          |LEFT-BACK  |10         |2          |INT-EXT    |0          |0          |           |           |
+MAKE  |J          |LEFT-FRONT |10         |0          |INT-EXT    |0          |0          |           |           |
+MAKE  |K          |LEFT-FRONT |10         |1          |INT-EXT    |0          |0          |           |           |
+MAKE  |L          |LEFT-FRONT |10         |2          |INT-EXT    |0          |0          |           |           |
+MAKE  |M          |FRONT-LEFT |10         |0          |INT-EXT    |0          |0          |           |           |
+MAKE  |N          |FRONT-LEFT |10         |1          |INT-EXT    |0          |0          |           |           |
+MAKE  |O          |FRONT-LEFT |10         |2          |INT-EXT    |0          |0          |           |           |
+MAKE  |P          |FRONT-RIGHT|10         |0          |INT-EXT    |0          |0          |           |           |
+MAKE  |Q          |FRONT-RIGHT|10         |1          |INT-EXT    |0          |0          |           |           |
+MAKE  |R          |FRONT-RIGHT|10         |2          |INT-EXT    |0          |0          |           |           |
+MAKE  |S          |RIGHT-FRONT|10         |0          |INT-EXT    |0          |0          |           |           |
+MAKE  |T          |RIGHT-FRONT|10         |1          |INT-EXT    |0          |0          |           |           |
+MAKE  |U          |RIGHT-FRONT|10         |2          |INT-EXT    |0          |0          |           |           |
+MAKE  |V          |RIGHT-BACK |10         |0          |INT-EXT    |0          |0          |           |           |
+MAKE  |W          |RIGHT-BACK |10         |1          |INT-EXT    |0          |0          |           |           |
+MAKE  |X          |RIGHT-BACK |10         |2          |INT-EXT    |0          |0          |           |           |
+
+      |VECTOR_____|INDEX______|QTY_X_VECT_|TROOPNAME__|DELAY_DROP_|DELAYCHANGE|SLEEPAFTER_|___________|___________|
+DROP  |M          |9          |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 9 from _E side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |M          |8          |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 8 from _E side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |M          |7          |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 7 from _E side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |M          |5          |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 5 from _E side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |M          |3          |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 3 from _E side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |M          |1          |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 1 from _E side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |P          |1          |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 1 from _F side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |P          |3          |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 3 from _F side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |P          |5          |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 5 from _F side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |P          |6          |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 6 from _F side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |P          |7          |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 7 from _F side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |P          |9          |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 9 from _F side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |A          |9          |1          |Mine       |50-70      |50-70      |1000-1500  |W4         |           |... - 1 Miner will drop on Point : 9 from _A side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |A          |8          |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 8 from _A side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |A          |7          |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 7 from _A side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |A          |5          |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 5 from _A side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |A          |3          |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 3 from _A side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |A          |1          |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 1 from _A side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |D          |1          |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 1 from _B side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |D          |3          |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 3 from _B side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |D          |5          |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 5 from _B side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |D          |6          |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 6 from _B side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |D          |7          |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 7 from _B side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |J          |9          |1          |Mine       |50-70      |50-70      |1000-1500  |W4         |           |... - 1 Miner will drop on Point : 9 from _D side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |J          |7          |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 7 from _D side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |J          |6          |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 6 from _D side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |J          |5          |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 5 from _D side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |J          |3          |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 3 from _D side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |J          |1          |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 1 from _D side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |G          |1          |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 1 from _C side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |G          |3          |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 3 from _C side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |G          |5          |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 5 from _C side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |G          |7          |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 7 from _C side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |G          |8          |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 8 from _C side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |G          |9          |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 9 from _C side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |S          |9          |1          |Mine       |50-70      |50-70      |1000-1500  |W4         |           |... - 1 Miner will drop on Point : 9 from _G side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |S          |8          |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 8 from _G side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |S          |7          |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 7 from _G side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |S          |5          |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 5 from _G side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |S          |4          |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 4 from _G side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |S          |3          |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 3 from _G side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |S          |1          |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 1 from _G side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |V          |1          |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 1 from _H side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |V          |3          |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 3 from _H side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |V          |5          |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 5 from _H side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |V          |6          |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 6 from _H side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |V          |7          |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 7 from _H side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |V          |8          |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 8 from _H side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |V          |9          |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 9 from _H side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |V          |10         |1          |Mine       |50-70      |50-70      |50-70      |W4         |           |... - 1 Miner will drop on Point : 10 from _H side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+
+      |VECTOR_____|SIDE_______|DROP_POINTS|ADDTILES___|VERSUS_____|RANDOMX_PX_|RANDOMY_PX_|BUILDING___|___________|
+MAKE  |Z          |FRONT-RIGHT|10         |-34        |INT-EXT    |0          |0          |           |           |
+
+      |VECTOR_____|INDEX______|QTY_X_VECT_|TROOPNAME__|DELAY_DROP_|DELAYCHANGE|SLEEPAFTER_|___________|___________|
+DROP  |M          |9          |1          |King       |50-70      |50-70      |50-70      |           |           |... - 1 King will drop on Point : 9 from _E side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |G          |7          |1          |Queen      |50-70      |50-70      |50-70      |           |           |... - 1 Queen will drop on Point : 7 from _C side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |G          |6          |1          |Warden     |50-70      |50-70      |50-70      |           |           |... - 1 Warden will drop on Point : 6 from _C side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |G          |8          |1          |Champion   |50-70      |50-70      |50-70      |           |           |... - 1 Royal Champion will drop on Point : 8 from _C side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+DROP  |G          |10         |1          |SiegeB     |50-70      |50-70      |50-70      |           |           |... - 1 Siege Barrack will drop on Point : 10 from _C side with 0 AddTile. (1 AddTile = 1,5 Square from red line.) And then bot will sleep between 50-70 ms.
+RECALC|           |           |           |           |           |           |           |           |           |
+DROP  |P-M        |1-8        |1          |REMAIN     |50-70      |100        |50-100     |           |           |
+      |------------------------------------------ This CSV created with ------------------------------------------|
+      |------------------------------------- CSV Maker 2022 that is made by --------------------------------------|
+      |----------------------------------------------- @ratakantez -----------------------------------------------|
+      |------------------------------------------ www.mybot.run/forums -------------------------------------------|
